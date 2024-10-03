@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Fm7\\2.26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0A8379-B17D-4C17-B31F-D7014DE891FE}|2.26\\2.26.vcxproj|C:\\Users\\user\\Desktop\\Fm7\\2.26\\2.26\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D0A8379-B17D-4C17-B31F-D7014DE891FE}|2.26\\2.26.vcxproj|solutionrelative:2.26\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fm7\\2.26\\2.26\\main.c",
+              "RelativeDocumentMoniker": "2.26\\main.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fm7\\2.26\\2.26\\main.c",
+              "RelativeToolTip": "2.26\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-02T16:06:34.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
